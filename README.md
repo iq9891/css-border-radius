@@ -1,2 +1,3 @@
-# css-border-radius
-css3圆角兼容ie
+## 功能 ##
+
+css3圆角兼容ie，下载之后直接ie预览即可
